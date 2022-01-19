@@ -8,7 +8,7 @@
 	<tr>
 		<td width="124" height="23">&nbsp;</td>
 		<td valign="bottom" align="center">
-			CopyRight &copy; 2019
+			CopyRight &copy; 2019 
 			北京市****科技有限公司
 		</td>
 		<td width="141">&nbsp;</td>
